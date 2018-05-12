@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3587
     wikipedia: http://en.wikipedia.org/wiki/Guy_Boothby
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36118#A-Crime-of-the-Under-seas
 gutenberg_issued: '2011-05-15'
 gutenberg_type: Text
 identifiers:
